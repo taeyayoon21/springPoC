@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-io-2.4.jar
+END
+jniwrap-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jniwrap-3.1.jar
+END
+commons-lang-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-lang-2.1.jar
+END
+lucene-core-1.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/lucene-core-1.9.1.jar
+END
+commons-email-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-email-1.0.jar
+END
+winpack-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/winpack-3.0.jar
+END
+commons-codec-1.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-codec-1.9.jar
+END
+commons-jxpath-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-jxpath-1.2.jar
+END
+commons-net-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-net-1.4.1.jar
+END
+batik-dom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/batik-dom.jar
+END
+commons-fileupload-1.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-fileupload-1.3.1.jar
+END
+mlibwrapper_jai.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/mlibwrapper_jai.jar
+END
+poi-scratchpad-3.13-20160309.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/poi-scratchpad-3.13-20160309.jar
+END
+commons-beanutils-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-beanutils-core.jar
+END
+jfreechart-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jfreechart-1.0.0.jar
+END
+INICrypto4Java.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/INICrypto4Java.jar
+END
+jexcel-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jexcel-1.0.jar
+END
+saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/saaj.jar
+END
+gson-2.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/gson-2.7.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-logging.jar
+END
+jaxen-jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jaxen-jdom.jar
+END
+nls-debug.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/nls-debug.jar
+END
+poi-3.13-20160309.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/poi-3.13-20160309.jar
+END
+comfyj-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/comfyj-2.1.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jstl.jar
+END
+batik-svggen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/batik-svggen.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jakarta-oro-2.0.8.jar
+END
+jaxen-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jaxen-core.jar
+END
+batik-awt-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/batik-awt-util.jar
+END
+cos.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/cos.jar
+END
+ibatis-common-2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/ibatis-common-2.jar
+END
+skec-common-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/skec-common-1.0.jar
+END
+wsdl4j-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/wsdl4j-1.5.1.jar
+END
+poi-ooxml-schemas-3.13-20160309.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/poi-ooxml-schemas-3.13-20160309.jar
+END
+commons-compress-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-compress-1.1.jar
+END
+saxpath.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/saxpath.jar
+END
+batik-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/batik-util.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jdom.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-collections-3.1.jar
+END
+smartenforcer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/smartenforcer.jar
+END
+quartz-all-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/quartz-all-1.5.2.jar
+END
+axis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/axis.jar
+END
+commons-digester-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-digester-1.7.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jaxrpc.jar
+END
+skcc-3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/skcc-3.5.jar
+END
+poi-ooxml-3.13-20160309.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/poi-ooxml-3.13-20160309.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/dom4j-1.6.1.jar
+END
+jai_codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jai_codec.jar
+END
+scsl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/scsl.jar
+END
+ibatis-sqlmap-2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/ibatis-sqlmap-2.jar
+END
+hivemind-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/hivemind-1.1.1.jar
+END
+jai_core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jai_core.jar
+END
+jakarta-regexp-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jakarta-regexp-1.3.jar
+END
+log4j-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/log4j-1.2.13.jar
+END
+commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-discovery-0.2.jar
+END
+json-20190722.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/json-20190722.jar
+END
+base14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/base14.jar
+END
+sapjco.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/sapjco.jar
+END
+InnorixJAVA-v9.2-r1170.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/InnorixJAVA-v9.2-r1170.jar
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/concurrent.jar
+END
+xmlbeans-2.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/xmlbeans-2.6.0.jar
+END
+jcommon-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jcommon-1.0.0.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/standard.jar
+END
+batik-xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/batik-xml.jar
+END
+javaee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/javaee.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/javassist.jar
+END
+commons-pool-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/commons-pool-1.2.jar
+END
+jdom2-2.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jdom2-2.0.6.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/xercesImpl.jar
+END
+axis-schema.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/axis-schema.jar
+END
+jgroups-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/jgroups-core.jar
+END
+external-debug.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wpcs-1-0/!svn/ver/15/trunk/web/WEB-INF/lib/external-debug.jar
+END

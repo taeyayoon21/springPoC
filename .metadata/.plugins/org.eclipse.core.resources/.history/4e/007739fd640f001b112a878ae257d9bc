@@ -1,0 +1,14 @@
+package com.example.demo.board.controller;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class testController {
+	@RequestMapping("/InnorixUpload")
+	public test(HttpServletRequest request2) {
+		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+	}
+}

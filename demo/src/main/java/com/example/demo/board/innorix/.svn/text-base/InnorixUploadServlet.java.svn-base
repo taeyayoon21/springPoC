@@ -1,0 +1,35 @@
+package com.skec.innorix;
+
+import java.io.IOException;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.skec.wpcs.common.Innorix;
+
+
+public class InnorixUploadServlet extends HttpServlet {
+    
+    
+
+    private static final long serialVersionUID = 1L;
+
+    public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {
+        
+  
+         try {
+             
+            new Innorix().upload(request, response);
+            
+        } catch (Exception e) {
+            
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        
+        
+    }
+
+
+}

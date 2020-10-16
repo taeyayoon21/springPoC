@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wpcs-1-0/!svn/ver/3/trunk/src/java/com/skec/innorix
+END
+InnorixUploadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/wpcs-1-0/!svn/ver/3/trunk/src/java/com/skec/innorix/InnorixUploadServlet.java
+END
+InnorixDownloadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/wpcs-1-0/!svn/ver/3/trunk/src/java/com/skec/innorix/InnorixDownloadServlet.java
+END

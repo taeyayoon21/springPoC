@@ -1,0 +1,42 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+#    #url: jdbc:mysql://127.0.0.1:3306/cworks_test?useSSL=false&characterEncoding=UTF-8
+    url: jdbc:mysql://127.0.0.1:3306/mysqlPocDb?useSSL=false&characterEncoding=UTF-8
+    username: skec
+    password: skec
+   #driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+   ##url: jdbc:sqlserver://127.0.0.1:1433;instanceName=pocdb
+   ##url: jdbc:sqlserver://127.0.0.1:1433/testdb?
+   #url: jdbc:sqlserver://127.0.0.1;databaseName=pocdb
+   #username: skec
+   #password: skec
+
+  devtools:
+    livereload:
+      enabled: true
+    freemarker:
+      cache: false
+   
+
+  servlet:
+    multipart:
+      enabled: true
+      location: C:/Temp      
+      #location: ${java.io.tmpdir}
+      max-file-size: 100MB
+      max-request-size: 100MB
+
+  mvc:
+      view:
+        prefix: /WEB-INF/jsp/
+        suffix: .jsp
+
+
+file:
+  upload:
+    path: /Users/leekyunghee/works/springboot-mvc-jsp/src/main/webapp/WEB-INF/uploadFiles/
+
+logging:
+        level:
+              com.example.demo.board: debug

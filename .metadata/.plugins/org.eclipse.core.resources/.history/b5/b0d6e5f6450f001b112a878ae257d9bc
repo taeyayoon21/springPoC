@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<servlet>
+	<servlet-name>demo</servlet-name>
+	<servlet-class>org.springframework.web.servelt.DispacherServlet</servlet-class>
+	    <multipart-config>
+            <max-file-size>52428800</max-file-size>
+            <max-request-size>52428800</max-request-size>
+            <file-size-threshold>0</file-size-threshold>
+        </multipart-config>
+	<load-on_startup>1</load-on_startup>
+	<servlet-mapping>
+	<servlet-name>demo</servlet-name>
+	<url-patter>/</url-patter>
+	</servlet-mapping>
+</servlet>
+
+
+
+<!-- <!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd"> -->
+
+<!-- <web-app> -->
+
+
+
+<!--     <context-param>
+        <param-name>component-config</param-name>
+        <param-value>config/component/base-component.xml</param-value>
+    </context-param>
+ -->
+
+
+<!-- <web-app>
+
+
+
+<servlet>
+	<servlet-name>demo</servlet-name>
+	<servlet-class>org.springframework.web.servelt.DispacherServlet</servlet-class>
+	    <multipart-config>
+            <max-file-size>52428800</max-file-size>
+            <max-request-size>52428800</max-request-size>
+            <file-size-threshold>0</file-size-threshold>
+        </multipart-config>
+	<load-on_startup>1</load-on_startup>
+	<servlet-mapping>
+	<servlet-name>demo</servlet-name>
+	<url-patter>/</url-patter>
+	</servlet-mapping>
+</servlet>
+
+
+ <filter>
+  <display-name>springMultipartFilter</display-name>
+  <filter-name>springMultipartFilter</filter-name>
+  <filter-class>org.springframework.web.multipart.support.MultipartFilter</filter-class>
+ </filter>
+
+<filter-mapping>
+  <filter-name>springMultipartFilter</filter-name>
+  <url-pattern>/*</url-pattern>
+ </filter-mapping>
+
+</web-app>
+ -->
+
+
+<!-- 
+<web-app>
+
+
+
+
+
+    <servlet>
+        <servlet-name>InnorixUploadServlet</servlet-name>
+        <servlet-class>com.example.demo.innorix.InnorixUploadServlet</servlet-class>
+    </servlet>
+        
+    <servlet>
+        <servlet-name>InnorixDownloadServlet</servlet-name>
+        <servlet-class>com.example.demo.innorix.InnorixDownloadServlet</servlet-class>
+    </servlet>
+    
+    
+    
+    
+     <servlet-mapping>
+        <servlet-name>InnorixUploadServlet</servlet-name>
+        <url-pattern>/InnorixUpload</url-pattern>
+    </servlet-mapping>
+    
+    <servlet-mapping>
+        <servlet-name>InnorixDownloadServlet</servlet-name>
+        <url-pattern>/InnorixDownload</url-pattern>
+    </servlet-mapping>  
+    
+    
+</web-app> -->
+
+    
+<!-- </web-app> -->

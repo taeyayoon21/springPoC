@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.example.demo.board.mapper.AccountMapper">
+    <select id="selectAccountByUsername" parameterType="string" resultType="com.example.demo.board.domain.AccountVO">
+        SELECT USERINDEX,
+        ID,
+        PASSWORD,
+        NAME
+        FROM mysqlPocDb.POC_USER
+        WHERE  ID = #{string}
+    </select>
+</mapper>
